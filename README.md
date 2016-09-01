@@ -1,2 +1,2 @@
-﻿# Calc-Geo 2
+﻿# Calc-Geo
 Sistema de Cálculos Planimétricos
